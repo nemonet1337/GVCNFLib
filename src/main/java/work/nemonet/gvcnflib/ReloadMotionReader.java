@@ -1,4 +1,4 @@
-package gvclib;
+package work.nemonet.gvcnflib;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

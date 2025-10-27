@@ -1,4 +1,4 @@
-package gvclib;
+package work.nemonet.gvcnflib;
 
 import java.lang.reflect.Type;
 import java.util.Locale;

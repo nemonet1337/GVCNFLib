@@ -1,4 +1,4 @@
-package gvclib;
+package work.nemonet.gvcnflib;
 
 import java.io.BufferedWriter;
 import java.io.File;

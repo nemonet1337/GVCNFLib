@@ -1,4 +1,4 @@
-package gvclib;
+package work.nemonet.gvcnflib;
 
 import net.minecraftforge.common.config.Configuration;
 
