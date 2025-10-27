@@ -1,0 +1,47 @@
+#
+entity.EntityB_Shell.name=포탄
+entity.EntityB_Bullet.name=총탄
+entity.EntityB_Missile.name=미사일
+entity.EntityB_GrenadeB.name=그레네이드 탄
+entity.EntityB_BulletAA.name=기관포탄
+entity.EntityT_TNT.name=TNT(개)
+entity.EntityT_Flash.name=총구 후레쉬
+entity.EntityT_Smoke.name=연기
+entity.EntityT_Grenade.name=그레네이드
+entity.EntityT_GrenadeT.name=대전차 그레네이드
+entity.EntityT_Morter.name=박격포탄
+entity.EntityB_BulletFire.name=화염
+
+death.attack.newbullet=%1$s는%2$s에게 총맞아 죽어버렸습니다.
+death.attack.newapbullet=%1$s는%2$s에게 바람구멍이 나버렸네요
+death.attack.newex=%1$s는%2$s이 던진 폭탄에 휘말려 죽었습니다.
+
+gvclib.gun.dual_hand.name=양손 유지가능
+gvclib.gun.remain.name=잔탄
+gvclib.gun.magazine.name=탄종
+gvclib.gun.power.name=데미지
+gvclib.gun.speed.name=탄속
+gvclib.gun.bure.name=집탄률
+gvclib.gun.recoid.name=반동
+gvclib.gun.reload.name=재장전 시간
+gvclib.gun.cycle.name=발사속도
+gvclib.gun.move.name=이동 속도
+gvclib.gun.scope.name=줌 배율
+gvclib.gun.shield.name=방어율
+gvclib.gun.exlevel.name=폭발력
+gvclib.gun.ex.name=블록 파괴 가능
+
+gvclib.gun.attachment_bullet.name=사용가능한 특수탄
+
+gvclib.gun.under_can.name=언더 바렐 웨폰 장착가능
+gvclib.gun.under_get.name=언더 바렐 웨폰 장착 모델 사용가능
+gvclib.gun.under_set.name=언더 바렐 웨폰
+
+gvclib.order.free.name=각개 요격!
+gvclib.order.stay.name=대기!
+gvclib.order.follow.name=따라와!
+gvclib.order.pointattack.name=점령 지점으로 이동하라!
+
+gvclib.wrench.1.name=우클릭으로 탈것 수리 가능
+gvclib.wrench.2.name=쉬프트 우클릭으로 탈것을 아이템화
+

@@ -1,0 +1,46 @@
+#
+entity.EntityB_Shell.name=Shell
+entity.EntityB_Bullet.name=Bullet
+entity.EntityB_Missile.name=Missile
+entity.EntityB_GrenadeB.name=GrenadeBullet
+entity.EntityB_BulletAA.name=BulletAA
+entity.EntityT_TNT.name=TNTkai
+entity.EntityT_Flash.name=MuzzleFlash
+entity.EntityT_Smoke.name=Smoke
+entity.EntityT_Grenade.name=Grenade
+entity.EntityT_GrenadeT.name=AntiTankGrenade
+entity.EntityT_Morter.name=MorterBullet
+entity.EntityB_BulletFire.name=Flame
+
+death.attack.newbullet=%1$s was shot by %2$s
+death.attack.newbulletap=%1$s was shot by %2$s
+death.attack.newex=%1$s was blown up by %2$s
+
+gvclib.gun.dual_hand.name=Can_Dual_Hand
+gvclib.gun.remain.name=RemainingBullet
+gvclib.gun.magazine.name=Magazine
+gvclib.gun.power.name=FireDamege
+gvclib.gun.speed.name=BulletSpeed
+gvclib.gun.bure.name=BulletSpread
+gvclib.gun.recoid.name=Recoil
+gvclib.gun.reload.name=ReloadTime
+gvclib.gun.cycle.name=Cycle
+gvclib.gun.move.name=MoveSpeed
+gvclib.gun.scope.name=ScopeZoom
+gvclib.gun.shield.name=Shield_defence
+gvclib.gun.exlevel.name=ExplosionLevel
+gvclib.gun.ex.name=CanBlockDestroy
+
+gvclib.gun.attachment_bullet.name=Usable_special_bullets
+
+gvclib.gun.under_can.name=CanUse_UnderBarrel_WEAPON
+gvclib.gun.under_get.name=CanUse_UnderBarrel_MODEL
+gvclib.gun.under_set.name=UnderBarrel_WEAPON
+
+gvclib.order.free.name=Free Attack!
+gvclib.order.stay.name=Wait!
+gvclib.order.follow.name=Follow me!
+gvclib.order.pointattack.name=Move that point!
+
+gvclib.wrench.1.name=Right-click to restore vehicle durability
+gvclib.wrench.2.name=Sneak + right click to itemize the vehicle

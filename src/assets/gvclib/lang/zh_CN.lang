@@ -1,0 +1,60 @@
+// MOD WebPage: [1.12.2/(一部1.19.2)]ゲリラMOD他 22/11/20　GVCLib,GVCR2更新、HMG2等1.19.2対応 @ https://forum.civa.jp/viewtopic.php?f=3&t=35
+// MOD Author: MG36 @ https://forum.civa.jp/memberlist.php?mode=viewprofile&u=119
+// zh_CN Localization File Author: Knighthana @ https://forum.civa.jp/memberlist.php?mode=viewprofile&u=1484
+// Used to Loaclize GVCLib__1.12.2__5.4.2 to Simplified Chinese
+// Comment: 22-Nov-25th: first edit for GVCLib Lang file
+
+# 抛体
+entity.EntityB_Shell.name=炮弹
+entity.EntityB_Bullet.name=枪弹
+entity.EntityB_Missile.name=导弹
+entity.EntityB_GrenadeB.name=手榴弹
+entity.EntityB_BulletAA.name=防空炮弹
+entity.EntityT_TNT.name=TNT改
+entity.EntityT_Flash.name=枪口火光
+entity.EntityT_Smoke.name=烟尘
+entity.EntityT_Grenade.name=手榴弹
+entity.EntityT_GrenadeT.name=反坦克手榴弹
+entity.EntityT_Morter.name=迫击炮弹
+entity.EntityB_BulletFire.name=火焰
+
+# 实体
+entity.EntityGVC_PlayerDummy.name=玩家假人
+
+# 击杀提示
+death.attack.newbullet=%1$s被%2$s枪杀
+death.attack.newapbullet=%1$s被%2$s射穿
+//22-Nov-25th: BTW，私はお勧めen_US lang fileの「death.attack.newbulletap」 は「%1$s was pierced by %2$s」と訳すことができます
+death.attack.newex=%1$s被%2$s炸死了
+
+# 武器属性
+gvclib.gun.dual_hand.name=可以双持
+gvclib.gun.remain.name=剩余弹药
+gvclib.gun.magazine.name=子弹类型
+gvclib.gun.power.name=威力
+gvclib.gun.speed.name=弹速
+gvclib.gun.bure.name=散布率
+gvclib.gun.recoid.name=后坐力
+gvclib.gun.reload.name=装填时间
+gvclib.gun.cycle.name=射速
+gvclib.gun.move.name=移速
+gvclib.gun.scope.name=准镜倍率
+gvclib.gun.shield.name=防御力
+gvclib.gun.exlevel.name=爆炸等级
+gvclib.gun.ex.name=方块爆破能力
+
+gvclib.gun.attachment_bullet.name=可用特殊弹药类型
+
+gvclib.gun.under_can.name=可装下挂武器
+gvclib.gun.under_get.name=可装下挂模块
+gvclib.gun.under_set.name=可作为下挂武器
+
+# 指令
+gvclib.order.free.name=自由开火！
+gvclib.order.stay.name=原地待命！
+gvclib.order.follow.name=跟着我！
+gvclib.order.pointattack.name=向指定地点进发！
+
+# 工具提示
+gvclib.wrench.1.name=右键点击以修复载具耐久
+gvclib.wrench.2.name=潜行+右键点击以物品化载具
